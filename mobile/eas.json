@@ -1,0 +1,19 @@
+{
+  "cli": {
+    "appVersionSource": "local"
+  },
+  "build": {
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://sidstocks-backend.vercel.app",
+        "EXPO_PUBLIC_SUPABASE_URL": "https://bpropehuloacphundebd.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_2ACn9k91Kj-e8gQpL_CB_A_hGPa9oNw"
+      },
+      "channel": "preview"
+    }
+  }
+}
