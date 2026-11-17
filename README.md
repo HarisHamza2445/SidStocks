@@ -15,6 +15,16 @@ Log in or create an account to use the app. The Android app updates itself over 
 
 > The APK link is hosted on Expo and expires after some time. A fresh one can be built with `eas build -p android --profile preview` (see below).
 
+## Screenshots
+
+| Home | Sectors | Screener | Stock detail |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/03-home.jpg" width="200" alt="Home"> | <img src="docs/screenshots/04-sectors.jpg" width="200" alt="Sectors"> | <img src="docs/screenshots/05-screener.jpg" width="200" alt="Screener"> | <img src="docs/screenshots/06-stock-detail.jpg" width="200" alt="Stock detail"> |
+
+| News | Journal | Welcome | Log in |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/07-news.jpg" width="200" alt="News"> | <img src="docs/screenshots/08-journal.jpg" width="200" alt="Journal"> | <img src="docs/screenshots/01-welcome.jpg" width="200" alt="Welcome"> | <img src="docs/screenshots/02-login.jpg" width="200" alt="Log in"> |
+
 ## Features
 
 - **Home** – India / US switch, NIFTY 50, SENSEX, BANK NIFTY, S&P 500, NASDAQ, DOW JONES, intraday chart, market status, market breadth, top gainers and losers, and an overall sentiment score.
